@@ -6,6 +6,7 @@ import Note from './View/Note';
 function App() {
   return (
     <div>
+      {/* App */}
       <Header />
       <Note />
       <Footer />

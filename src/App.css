@@ -3,6 +3,10 @@
   src: url('../assets/McLaren-Regular.ttf') format('woff2');
 }
 
+body {
+  background: #eee;
+}
+
 header {
   background: #F5BA13;
   margin: auto;
